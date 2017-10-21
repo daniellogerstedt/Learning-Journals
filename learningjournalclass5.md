@@ -1,0 +1,5 @@
+# Learning Journal Class 5
+
+So far I'm feeling pretty solid on loops, functions, and everything we've covered on the logic side, I do however feel I could use more CSS practice just simply because of the fact that it is kinda a pain to work with and I've yet to actually manage to make anything that is amazing looking outside the class examples. Hopefully with some time I'll pick up some tricks to CSS and be able to utilize it more effectively. As far as HTML goes I feel HTML is probably the easiest of the 3 bits we're learning and while it does need some practice it isn't as hard to grasp as CSS or JS.
+
+I was fairly happy I was able to figure out the stretch goal for the functions work today and print to my HTML from my JS. It took some digging and a bit of reading but I finally got it working and I could definitely see where the ability to do that might come in handy for anything involving some kind of function to find specific products and display them based on either predefined or user input criteria.
